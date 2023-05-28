@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TerryDcoder
-- 👀 I’m interested in Java, python, C and C++.
-- 🌱 I’m currently learning javascript, python and java oop
+- 👀 I’m interested in Java, python, C and C++ Arduino Projects.
+- 🌱 I’m currently learning javascript, python and java oop.
 - 💞️ I’m looking to collaborate on this platform for any project that will build my skills
 - 📫 Reach me on watsapp 09090776652, email: faasuma.joshua.oni@gmail.com, facebook @ Joe Boy Terry
 
